@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+display: flex;
+position: absolute;
+justify-content: center;
+align-items: center;
+width: 1217px;
+height: 66.57px;
+left: 117px;
+top: 27.78px;
+
+background: rgba(111, 151, 65, 0.6);
+box-shadow: 0px 0.832881px 0.832881px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(3.43563px);
+border-radius: 9.36991px;
+}
+
+#container {
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+width: 1122px;
+height: 400px;
+top: 155px;
+background: rgba(126, 180, 64, 0.6);
+box-shadow: 0px 0.888315px 0.888315px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(3.6643px);
+border-radius: 9.99354px;
+right: 95px;
+}
+body {
+    background-image: url('bg-images/bg-06.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    overflow: hidden;
+    background-attachment: fixed;
+    max-width: 100%;
+  }
+#logo img {
+position: absolute;
+width: 45px;
+height: 45px;
+left: 22.5px;
+top: 11.25px;
+background: #D9D9D9;
+border-radius: 50%;
+}
+#home {
+position: absolute;
+width: 70px;
+height: 36px;
+left: 123px;
+top: 15.78px;
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+}
+#login {
+position: absolute;
+width: 64px;
+height: 36px;
+left: 976px;
+top: 15.78px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+
+}
+
+#sign-up{
+position: absolute;
+width: 124px;
+height: 39px;
+left: 1080px;
+top: 12.78px;
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+cursor: pointer;
+color: #FFFFFF;
+
+background: rgba(118, 130, 69, 0.85);
+border-radius: 10px;
+}
+#navbar ul ul a{
+    color: #FFFFFF;
+    text-decoration: none;
+} 
+#sign-up a{
+    justify-content: center;
+    text-align: right;
+}
+
+  
