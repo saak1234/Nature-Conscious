@@ -1,0 +1,137 @@
+
+.navbar{
+    
+    position: absolute;
+    width: 1123px;
+    height: 75.57px;
+    left: 88px;
+    top: 25.78px;
+    border-radius:9.3px;
+
+    
+
+
+
+
+background: rgba(111, 151, 65, 0.6);
+box-shadow: 0px 0.832881px 0.832881px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(3.43563px);
+
+}
+.navbar ul li a{
+    color:white;
+    text-decoration:none;
+}
+.navbar ul li{
+    list-style:none;
+    font-family: 'Itim';
+   
+    
+}
+.navbar ul{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+    
+}
+.login-position1{
+    margin-right:69%;
+}
+.login-position0{
+    margin-right:8%;
+}
+.login-position2{
+    margin-right:3%;
+}
+.navbar ul li{
+    font-size:20px;
+}
+body{
+    background: url("bg-06.jpg");
+    background-size:100%;
+    background-repeat: no-repeat;
+    position: relative;
+  
+    
+
+}
+.login-container{
+    position:relative;
+    
+
+
+    width: 500px;
+    height: 400px;
+    top:140px;
+
+   
+    
+    
+
+background: rgba(111, 151, 65, 0.6);
+box-shadow: 0px 0.888315px 0.888315px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(3.6643px);
+
+
+border-radius: 19px;
+
+}
+.main{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  
+}
+.login-form{
+    position:relative;
+    top:34px;
+    left:111px;
+    font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 36px;
+
+color: #000000;
+}
+
+.login-submit{
+    font-family: 'Itim';
+    position:absolute;
+    left: 187px;
+    bottom: 5px;
+    border-radius:12px;
+}
+.login-account{
+    font-size:12px;
+}
+.login-account2{
+    font-size: 11px;
+    font-family: 'Itim';
+    position: absolute;
+    left: 127px;
+    bottom: 0px;
+}
+.bg{
+    height: 50px;
+}
+
+
+
+
+body {
+    background-image: url('bg-images/bg-06.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    overflow: hidden;
+    background-attachment: fixed;
+    max-width: 100%;
+  }
+
+
+.login-input{
+    border-radius:262px;
+  }
+
