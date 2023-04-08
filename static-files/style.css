@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url(bg-06.jpg);
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+    max-width: 100%;
+    background-position: center center;
+    overflow: hidden;
+}
+#navbar {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 1217px;
+    height: 66.57px;
+    left: 117px;
+    top: 27.78px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.832881px 0.832881px;
+    backdrop-filter: blur(3.43563px);
+    background: rgba(111, 151, 65, 0.6);
+    border-radius: 9.36991px;
+}
+#logo img {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 22.5px;
+    top: 11.25px;
+    background: rgb(217, 217, 217);
+    border-radius: 50%;
+}
+#home {
+    position: absolute;
+    width: 70px;
+    height: 36px;
+    left: 123px;
+    top: 15.78px;
+    font-family: Itim;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: rgb(255, 255, 255);
+}
+#navbar ul ul a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#login {
+    position: absolute;
+    width: 64px;
+    height: 36px;
+    left: 976px;
+    top: 15.78px;
+    font-family: Itim;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+}
+#sign-up {
+    position: absolute;
+    width: 124px;
+    height: 39px;
+    left: 1080px;
+    top: 12.78px;
+    font-family: Itim;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background: rgba(118, 130, 69, 0.85);
+    border-radius: 10px;
+}
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 1122px;
+    height: 400px;
+    top: 155px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.888315px 0.888315px;
+    backdrop-filter: blur(3.6643px);
+    right: 95px;
+    background: rgba(126, 180, 64, 0.6);
+    border-radius: 9.99354px;
+}
