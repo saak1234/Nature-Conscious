@@ -1,0 +1,52 @@
+.backimg{
+    background-image: url("https://raw.githubusercontent.com/saak1234/Nature-Conscious/master/resources/bg-06.jpg");
+    height: 1000px;
+    width: 1500px;
+    padding: 3px;
+    
+    font-size: 20px;
+    
+}
+
+.contain{
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background:rgba(126,180, 64, 0.6);
+    font-size: 20px;
+    
+}
+
+.contain1{
+    height: 200px;
+    width: 820px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    background: rgba(99, 108, 2, 0.86);
+    border-radius: 19px;
+    color: white;
+
+}
+
+.contain2{
+    height: 200px;
+    width: 820px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    background: rgba(99, 108, 2, 0.86);
+    border-radius: 19px;
+    color: white;
+
+}
